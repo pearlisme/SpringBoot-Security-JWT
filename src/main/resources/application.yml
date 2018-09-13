@@ -1,0 +1,14 @@
+
+
+server:
+  port: 8084
+
+
+management:
+  security:
+    enabled: true
+
+spring:
+  resources:
+    chain:
+      enabled: true
